@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F706&background=0E00FF00&width=700&lines=Reverse+Engineering+%7C+Malware+Reverse+Engineering;Online+game+scripts+automatization(Bots);Pizza+lover;Software+developer+%7C+JS%2C+Angular%2C+C%23%2C+.Net%2C+C%2FC%2B%2B%2C+ASM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=04C9F7&background=0E00FF00&width=700&lines=Reverse+Engineering+%7C+Malware+Reverse+Engineering;Online+game+scripts+automatization(Bots);Pizza+lover;Software+developer+%7C+JS%2C+Angular%2C+C%23%2C+.Net%2C+C%2FC%2B%2B%2C+ASM)](https://git.io/typing-svg)
 
 
 ## 🌐 Full-stack development
